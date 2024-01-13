@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\maky\Downloads\takipaki\TaskManagerHack\dllmain.cpp(50,36): warning C4326: return type of 'main' should be 'int' instead of 'DWORD'
+  TaskManagerHack.vcxproj -> C:\Users\maky\Downloads\takipaki\x64\Debug\TaskManagerHack.dll
